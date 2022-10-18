@@ -1,16 +1,28 @@
-# posts
+# Aplicativo Posts
+Projeto destinado para estudo 
 
-A new Flutter project.
+<h2>Screenshots</h2>
 
-## Getting Started
+   <p align="center">
+      <img src="assets/screenshots/home.jpeg" width="400" alt=" App Demonstração Home">
+      <img src="assets/screenshots/detail.jpeg" width="400" alt=" App Demonstração Detail">
+   </p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Como instalar</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```
+   Baixe e configure o flutter:
+   https://flutter.dev/docs/get-started/install
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   - Clone o repositório:
+   $ git clone https://github.com/rafaelmconceicao/Posts/
+
+   - Instalar as dependências:
+   $ flutter pub get
+
+   - Execute o projeto:
+   $ flutter run
+   ```
+
+---
